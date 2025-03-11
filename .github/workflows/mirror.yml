@@ -42,6 +42,8 @@ jobs:
         run: wget -m --retry-connrefused --tries=20 --no-host-directories --directory-prefix="www" --exclude-directories="/wp-json,/wp-admin,/calendar/*" --regex-type 'pcre' --reject-regex '.*\?(?!ver).*' --wait 1 --execute robots=off https://www.ftcunion.org/
       - name: Download 404
         run: wget --content-on-error --directory-prefix="www" https://www.ftcunion.org/404.html || echo "Expexted error"
+      - name: Download extra URLs
+        run: wget -m --retry-connrefused --tries=20 --no-host-directories --directory-prefix="www" --exclude-directories="/wp-json,/wp-admin,/calendar/*" --regex-type 'pcre' --reject-regex '.*\?(?!ver).*' --wait 1 --execute robots=off --input-file=extra-urls.txt
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

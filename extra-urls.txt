@@ -1,0 +1,1 @@
+https://www.ftcunion.org/wp-includes/js/wp-emoji-release.min.js
