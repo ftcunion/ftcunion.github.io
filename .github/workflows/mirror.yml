@@ -37,13 +37,20 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
+      # Install minify
+      - name: Install minify
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y minify
+
       # Download website
       - name: Download the files
         run: wget -m --retry-connrefused --tries=20 --no-host-directories --directory-prefix="www" --exclude-directories="/wp-json,/wp-admin,/calendar/*" --regex-type 'pcre' --reject-regex '.*\?(?!ver).*' --wait 1 --execute robots=off https://www.ftcunion.org/
       - name: Download 404
-        run: wget --content-on-error --directory-prefix="www" https://www.ftcunion.org/404.html || echo "Expexted error"
+        run: wget --content-on-error --directory-prefix="www" https://www.ftcunion.org/404.html || echo "Expected error"
       - name: Download extra URLs
         run: wget -m --retry-connrefused --tries=20 --no-host-directories --directory-prefix="www" --exclude-directories="/wp-json,/wp-admin,/calendar/*" --regex-type 'pcre' --reject-regex '.*\?(?!ver).*' --wait 1 --execute robots=off --input-file=extra-urls.txt
+        continue-on-error: true
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -55,6 +62,8 @@ jobs:
         run: .github/bin/cleanup-querystrings.py
       - name: Remove domain from URLs # breaks if you have the domain in the content or have http links
         run: find ./dist/ -type f -exec sed -i -E 's|https?:(\\?)/(\\?)/www\.ftcunion\.org|https:\1/\2/ftcunion.github.io|g' {} \;
+      - name: Minify HTML
+        run: find ./dist/ -type f -name '*.html' -exec minify {} -o {} \;
       - name: Copy robots.txt
         run: cp robots.txt dist/
 

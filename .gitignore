@@ -5,3 +5,4 @@ __pycache__/
 
 # Temporary files
 www/
+dist/

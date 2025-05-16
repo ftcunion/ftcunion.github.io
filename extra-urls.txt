@@ -1,1 +1,2 @@
 https://www.ftcunion.org/wp-includes/js/wp-emoji-release.min.js
+https://www.ftcunion.org/wp-content/uploads/svg_favicon/svg-favicon.svg
