@@ -1,2 +1,2 @@
-https://www.ftcunion.org/wp-includes/js/wp-emoji-release.min.js
-https://www.ftcunion.org/wp-content/uploads/svg_favicon/svg-favicon.svg
+https://www.ftcunion.org/wp-content/uploads/2024/12/ftc-social-card.png
+https://www.ftcunion.org/wp-content/uploads/2025/05/cropped-ftc-chapter-logo-inv.png
