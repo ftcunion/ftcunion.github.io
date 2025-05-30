@@ -13,41 +13,41 @@
         type="translate"
         values="0 -0;0 -0;0 -4;0 -4;0 -8;0 -8;0 -12;0 -12;0 -16;0 -16;0 -20;0 -20;0 -24;0 -24;0 -28;0 -28;0 -32;0 -32;0 -36;0 -36;0 -40;0 -40;0 -44"
         keyTimes="0;0.091;0.091;0.182;0.182;0.273;0.273;0.364;0.364;0.455;0.455;0.545;0.545;0.636;0.636;0.727;0.727;0.818;0.818;0.909;0.909;1;1"
-        dur="4s"
+        dur="11s"
         repeatCount="indefinite" />
-      <text x="1" y="2.5"  textLength="62">index.html              [ &lt;=&gt;                ]  53.08K  --.-K </text>
-      <text x="1" y="4.5"  textLength="62">URL:https://www.ftcunion.org/ [54359] -&gt; "www/index.html" [1] </text>
-      <text x="1" y="6.5"  textLength="62">wp-content/themes/f     [ &lt;=&gt;                ]  88.28K  --.-K </text>
+      <text x="1" y="2.5"  textLength="62">wp-content/themes/f     [ &lt;=&gt;                ]  88.28K  --.-K </text>
+      <text x="1" y="4.5"  textLength="62">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
+      <text x="1" y="6.5"  textLength="62">wp-content/themes/f 100%[===================&gt;]  32.82K  --.-K </text>
       <text x="1" y="8.5"  textLength="62">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
-      <text x="1" y="10.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  32.82K  --.-K </text>
+      <text x="1" y="10.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  75.39K  --.-K </text>
       <text x="1" y="12.5" textLength="62">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
-      <text x="1" y="14.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  75.39K  --.-K </text>
+      <text x="1" y="14.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  32.88K  --.-K </text>
       <text x="1" y="16.5" textLength="62">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
-      <text x="1" y="18.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  32.88K  --.-K </text>
-      <text x="1" y="20.5" textLength="62">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
-      <text x="1" y="22.5" textLength="62">wp-includes/blocks/     [ &lt;=&gt;                ]  16.06K  --.-K </text>
-      <text x="1" y="24.5" textLength="62">URL:https://www.ftcunion.org/wp-includes/blocks/navigation/st]</text>
-      <text x="1" y="26.5" textLength="62">wp-content/themes/f     [ &lt;=&gt;                ]   1.00K  --.-K </text>
-      <text x="1" y="28.5" textLength="62">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
-      <text x="1" y="30.5" textLength="62">wp-includes/js/dist     [ &lt;=&gt;                ]   3.28K  --.-K </text>
+      <text x="1" y="18.5" textLength="62">wp-includes/blocks/     [ &lt;=&gt;                ]  16.06K  --.-K </text>
+      <text x="1" y="20.5" textLength="62">URL:https://www.ftcunion.org/wp-includes/blocks/navigation/st]</text>
+      <text x="1" y="22.5" textLength="62">wp-content/themes/f     [ &lt;=&gt;                ]   1.00K  --.-K </text>
+      <text x="1" y="24.5" textLength="62">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
+      <text x="1" y="26.5" textLength="62">wp-includes/js/dist     [ &lt;=&gt;                ]   3.28K  --.-K </text>
+      <text x="1" y="28.5" textLength="62">URL:https://www.ftcunion.org/wp-includes/js/dist/script-modul]</text>
+      <text x="1" y="30.5" textLength="62">wp-includes/js/dist     [ &lt;=&gt;                ]  37.36K  --.-K </text>
       <text x="1" y="32.5" textLength="62">URL:https://www.ftcunion.org/wp-includes/js/dist/script-modul]</text>
-      <text x="1" y="34.5" textLength="62">wp-includes/js/dist     [ &lt;=&gt;                ]  37.36K  --.-K </text>
-      <text x="1" y="36.5" textLength="62">URL:https://www.ftcunion.org/wp-includes/js/dist/script-modul]</text>
-      <text x="1" y="38.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  69.86K  --.-K </text>
+      <text x="1" y="34.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  69.86K  --.-K </text>
+      <text x="1" y="36.5" textLength="62">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
+      <text x="1" y="38.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  75.39K  --.-K </text>
       <text x="1" y="40.5" textLength="62">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
-      <text x="1" y="42.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  75.39K  --.-K </text>
+      <text x="1" y="42.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  71.27K  --.-K </text>
       <text x="1" y="44.5" textLength="62">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
-      <text x="1" y="46.5" textLength="62">index.html              [ &lt;=&gt;                ]  53.08K  --.-K </text>
-      <text x="1" y="48.5" textLength="62">URL:https://www.ftcunion.org/ [54359] -&gt; "www/index.html" [1] </text>
-      <text x="1" y="50.5" textLength="62">wp-content/themes/f     [ &lt;=&gt;                ]  88.28K  --.-K </text>
+      <text x="1" y="46.5" textLength="62">wp-content/themes/f     [ &lt;=&gt;                ]  88.28K  --.-K </text>
+      <text x="1" y="48.5" textLength="62">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
+      <text x="1" y="50.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  32.82K  --.-K </text>
       <text x="1" y="52.5" textLength="62">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
-      <text x="1" y="54.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  32.82K  --.-K </text>
+      <text x="1" y="54.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  75.39K  --.-K </text>
       <text x="1" y="56.5" textLength="62">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
-      <text x="1" y="58.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  75.39K  --.-K </text>
+      <text x="1" y="58.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  32.88K  --.-K </text>
       <text x="1" y="60.5" textLength="62">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
-      <text x="1" y="62.5" textLength="62">wp-content/themes/f 100%[===================&gt;]  32.88K  --.-K </text>
-      <text x="1" y="64.5" textLength="62">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
-      <text x="1" y="66.5" textLength="62">wp-includes/blocks/     [ &lt;=&gt;                ]  16.06K  --.-K </text>
+      <text x="1" y="62.5" textLength="62">wp-includes/blocks/     [ &lt;=&gt;                ]  16.06K  --.-K </text>
+      <text x="1" y="64.5" textLength="62">URL:https://www.ftcunion.org/wp-includes/blocks/navigation/st]</text>
+      <text x="1" y="66.5" textLength="62">wp-content/themes/f     [ &lt;=&gt;                ]   1.00K  --.-K </text>
     </g>
   </g>
 </svg>
