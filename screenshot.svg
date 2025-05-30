@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62 24">
+  <style>text{fill:white;font-family:monospace;font-size:1.667px;white-space:pre}svg{background-color:black}</style>
+  <text x="1" y="2.5" textLength="60">index.html              [ &lt;=&gt;                ]  53.08K  --.-K </text>
+  <text x="1" y="4.5" textLength="60">URL:https://www.ftcunion.org/ [54359] -&gt; "www/index.html" [1] </text>
+  <text x="1" y="6.5" textLength="60">wp-content/themes/f     [ &lt;=&gt;                ]  88.28K  --.-K </text>
+  <text x="1" y="8.5" textLength="60">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
+  <text x="1" y="10.5" textLength="60">wp-content/themes/f 100%[===================&gt;]  32.82K  --.-K </text>
+  <text x="1" y="12.5" textLength="60">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
+  <text x="1" y="14.5" textLength="60">wp-content/themes/f 100%[===================&gt;]  75.39K  --.-K </text>
+  <text x="1" y="16.5" textLength="60">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
+  <text x="1" y="18.5" textLength="60">wp-content/themes/f 100%[===================&gt;]  32.88K  --.-K </text>
+  <text x="1" y="20.5" textLength="60">URL:https://www.ftcunion.org/wp-content/themes/ftcunion-stewa]</text>
+  <text x="1" y="22.5" textLength="60">wp-includes/blocks/     [ &lt;=&gt;                ]  16.06K  --.-K </text>
+</svg>
